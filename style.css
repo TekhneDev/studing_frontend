@@ -1,0 +1,23 @@
+/* Seguindo um nível de hierarquia e boas regras de código, o body vem em cima do p */
+/* Como funciona o estilo cascata do CSS */
+/* Tudo que eu adiciono no elemento pai reflete nos elementos filhos */
+
+body {
+    background-color: #CCCCCC;
+}
+
+#banner {
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+em strong {
+    color: red;
+}
